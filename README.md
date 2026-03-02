@@ -33,9 +33,8 @@ portfolio/
 │── index.html
 │── style.css
 │── script.js
-│── assets/
-│   ├── images/
-│   └── icons/
+│   ├── images
+
 ⚙️ Installation & Setup
 
 Clone the repository
